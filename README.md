@@ -44,7 +44,7 @@ $ pod init
 该命令会在当前目录下生产对应的Podfile文件。
 
 #### 1.2.2 在Podfile中添加
-> pod 'ODInstall'
+> pod 'ODInstallSDK'
 
 #### 1.2.3 执行pod的集成命令
 
