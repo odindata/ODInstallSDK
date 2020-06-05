@@ -96,7 +96,7 @@ $ pod repo update
 开发者可以将上面代码直接加入到**info.plist**中。
 或者自行添加，在info.plist最外层点击加号，添加新的键值对，key为**App Transport Security Settings**，类型为**Dictionary**，在刚添加的Dictionary下面添加键值对，key为**Allow Arbitrary Loads**，类型为**Boolean**，值为**YES**，如下图所示：  
 
-![image](https://github.com/BaconTimes/files/blob/master/images/odinpushnetauth.png?raw=true)
+![image](https://github.com/odindata/ODInstallSDK/blob/master/Files/http.jpg?raw=true)
 
 
 <h1 id="wayofuse">4.具体功能使用</h1>  
