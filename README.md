@@ -84,7 +84,7 @@ $ pod repo update
 
 #### 网络请求权限配置  
 
-由于OdinSMS的请求是http，需要运行app设置请求权限。源代码如下：
+由于ODInstall的请求是http，需要运行app设置请求权限。源代码如下：
 
 ```
 <key>NSAppTransportSecurity</key>  
